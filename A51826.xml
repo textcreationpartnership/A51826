@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A solemn humiliation for the murder of K. Charles I with some remarks on those popular mistakes, concerning popery, zeal, and the extent of subjection, which had a fatal influence in our civil wars.</title>
+            <author>Manningham, Thomas, 1651?-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51826</idno>
+            <idno type="STC">Wing M509</idno>
+            <idno type="STC">ESTC R8082</idno>
+            <idno type="EEBO-CITATION">12639335</idno>
+            <idno type="OCLC">ocm 12639335</idno>
+            <idno type="VID">64993</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64993)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 697:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A solemn humiliation for the murder of K. Charles I with some remarks on those popular mistakes, concerning popery, zeal, and the extent of subjection, which had a fatal influence in our civil wars.</title>
+                  <author>Manningham, Thomas, 1651?-1722.</author>
+               </titleStmt>
+               <extent>[2], 28, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Collins for W. Crooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[4] at end.</note>
+                  <note>Later issued as the third of the Six sermons preached on the occasions following ...</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Sermons.</term>
+               <term>Bible. --  O.T. --  Psalms LXXIX, 8 --  Sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:64993:1"/>
+            <pb n="1" facs="tcp:64993:1"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. LXXIX. v. 8.</hi>
+                  </bibl>
+                  <p>O Remember not againſt us former I<g ref="char:EOLhyphen"/>niquities! or the Iniqities of them that were before us!</p>
+               </q>
+            </epigraph>
+            <p>THE repeated Practices of Rebel<g ref="char:EOLhyphen"/>lion in this our Land, and our continual dread of Imminent Judgments, do add a new <hi>Seaſo<g ref="char:EOLhyphen"/>nableneſs</hi> to this days Humiliation. And let us add a new vigour to our Intercedings with the Almighty, to prevent thoſe Puniſhments which we ſo highly deſerve.</p>
+            <p>For we are this day met to bewail the greateſt <hi>National</hi> ſin, except that which the Jews committed in Crucifying the Lord of Life. A ſin which hath made us a Scandal and a Proverb of Reproach to other Kingdoms, a miſerable and divi<g ref="char:EOLhyphen"/>ded
+<pb n="2" facs="tcp:64993:2"/>people within our ſelves, and a dread<g ref="char:EOLhyphen"/>ful Theatre of the continual Judgements of God.</p>
+            <p>There was doubtleſs a general corrup<g ref="char:EOLhyphen"/>tion of Life and Manners that diſpoſed this Nation to enter into ſuch horrid Coun<g ref="char:EOLhyphen"/>ſels, and to engage in ſuch furious attempts: Luxury, Wantonneſs, neglect of Religi<g ref="char:EOLhyphen"/>on and wiſe Diſcipline, firſt forfeited the protection of Providence, and then God delivered up an infatuated people to their own Paſſions and falſe Zeals, and let them follow their own Imaginations.</p>
+            <p>It is indeed to no good purpoſe (at leaſt in this place) to lay the <hi>whole Guilt</hi> upon any particular Party amongſt us: That may be the buſineſs of an Hiſtorian, but not of a Divine: That may ſerve to awaken Governours, but will not contri<g ref="char:EOLhyphen"/>bute towards the attonement of our God: That may give Men Rules of worldly Po<g ref="char:EOLhyphen"/>licy, but will never work in us a true and Spiritul Compunction.</p>
+            <pb n="3" facs="tcp:64993:2"/>
+            <p>Sharp and eager Reflections may pro<g ref="char:EOLhyphen"/>mote Revenge and Malice, but will hard<g ref="char:EOLhyphen"/>ly produce a general Humiliation and Re<g ref="char:EOLhyphen"/>pentance. Whatever Deſigns our Ad<g ref="char:EOLhyphen"/>verſaries formed, we may be ſure it was <hi>our Sins</hi> that gave them their Succeſs.</p>
+            <p>The Tragedy is acted, the Murder com<g ref="char:EOLhyphen"/>pleated, the anger of the Almighty is pro<g ref="char:EOLhyphen"/>voked, the Nation has ſinn'd, and the Na<g ref="char:EOLhyphen"/>tion muſt repent; or elſe there is no<g ref="char:EOLhyphen"/>thing but a fearful looking for of ſwift and final Deſtruction. But O! <hi>Remember not againſt us, former Iniquities!</hi>
+            </p>
+            <p>It is not requiſite at this time to engage in any exact method of Diſcourſe, the Sub<g ref="char:EOLhyphen"/>ject of this days Meditation being ſome<g ref="char:EOLhyphen"/>what too big for the common Rules of Art: 'Tis the property of great Paſſions to know but little Order.</p>
+            <p>The ſudden effuſions of a pious and Loyal Heart, with ſome general remarks on the more fatal Springs and Principles of
+<pb n="4" facs="tcp:64993:3"/>Faction and Rebellion, are more ſuitable to this Solemnity, than the ſmoother com<g ref="char:EOLhyphen"/>poſitions of a mind at leiſure.</p>
+            <p>Let ſuch as pleaſe, ſtudy to be Elegant under the Indignation of God, and the Infamy of a Kingdom; all that I ſhall at preſent attempt, ſhall be onely to mani<g ref="char:EOLhyphen"/>feſt an humble and an Holy concern in eve<g ref="char:EOLhyphen"/>ry period I pronounce.</p>
+            <p>The Engliſh Nation had been long held in ſingular repute for their Noble, their good-Natur'd, and Loyal Courage; and not onely the Neighbouring King<g ref="char:EOLhyphen"/>doms, but the remoter parts of the Earth, had been Witneſſes of their unalterable Affection to their Kings, whom they cheer<g ref="char:EOLhyphen"/>fully followed in their Expeditions, with conſtant and unwearied Duty.</p>
+            <p>But the abomination of this day has almoſt ſilenced all our former Praiſe; and the ſtain of this days Murder has caſt a blemiſh on our ancient Glory.</p>
+            <pb n="5" facs="tcp:64993:3"/>
+            <p>How muſt we bluſh to think that it ſhall be always read in ſtory, <hi>How that Engliſh men ſtood round a Scaffold with their Muskets and Javelins to guard and forward the Murder of their own</hi> King.</p>
+            <p>Surely the ſtrangeneſs of the Fact will make men ſuſpect the truth of the Hiſtory, they will abhor the Record that ſhews them ſuch a Villany! But yet does not this days Aſſembly, does not this pre<g ref="char:EOLhyphen"/>ſent Generation too truly atteſt it? but can they, can all Poſterity attone for it?</p>
+            <p>The favour of Providence, and the Ho<g ref="char:EOLhyphen"/>nour of our Country, which we have loſt by our Rebellions, we muſt recover by our Humiliations: The Victories of the Field muſt be turned into the Repentances of the Temple; and the active Nobleneſs of Ex<g ref="char:EOLhyphen"/>ploits, into meekneſs and ſufferings for Truth and Holineſs, if ever we expect that the Lord ſhould forget the Iniquity of this day.</p>
+            <pb n="6" facs="tcp:64993:4"/>
+            <p>
+               <hi>Pontius Pilate,</hi> willing to give ſome check to the importunate malice of the Jews, who ſo tumultuouſly demanded the Cru<g ref="char:EOLhyphen"/>cifixion of our Lord and Saviour, put this harſh and diſhonourable Queſtion to them; <hi>Shall I Crucifie your King?</hi> He cannot be crucified, but your Name alſo muſt be cru<g ref="char:EOLhyphen"/>cified with him, in the Superſcription of his Titles; for he ſhall be crucified <hi>the King of the Jews.</hi>
+            </p>
+            <p>So might it this day have been put to the Engliſh Rebels, <hi>Will you murder your King?</hi> the Father of your Country, the Vice-gerent of God, the Fountain of Ju<g ref="char:EOLhyphen"/>ſtice, the preſerver of your Laws, and the Guardian of your publick Peace and Or<g ref="char:EOLhyphen"/>der? Will you murder your own moſt juſt and <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>al King? ſo Wiſe, ſo Meek, ſo Pious, and ſo Devout a King? whom Providence &amp; Succ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſion, your own Laws, and your Con<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have eſtabliſhed in the Throne, and of which his own Vertues had made him <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worthy? Will you murder that King who has parted with ſo much of his
+<pb n="7" facs="tcp:64993:4"/>Prerogative for your ſatisfaction? who has delivered up a moſt able Counſellor to your importunate and unjuſt Petitions, and wounded his Conſcience for your peace and ſafety? who has undergone the rude<g ref="char:EOLhyphen"/>neſs of your Victories, your Priſons, and your Mockeries of Juſtice, with the ſame mildneſs and conſtancy which he ſhewed in the fulneſs of his Empire! who has gi<g ref="char:EOLhyphen"/>ven up every thing to your implacable de<g ref="char:EOLhyphen"/>mands, but your trueſt Liberties, your Laws and Rights, and your eſtabliſhed Worſhip?</p>
+            <p>But 'tis too late now to ask the Que<g ref="char:EOLhyphen"/>ſtion, and I ſhall forbear to continue the Figure any longer. They have acted the Crime; they have brought an Eternal Infamy upon the Nation, an indelible blot upon Religion, and I fear an Hereditary Curſe upon this miſerable Land.</p>
+            <p>But why ſhould thoſe be concerned in the trouble and confuſion of this day, who had no ſhare in the guilt of it? for are there not many now living who may juſtly boaſt
+<pb n="8" facs="tcp:64993:5"/>of their extraordinary ſervice to that Excel<g ref="char:EOLhyphen"/>lent Prince, and of the honour they had of ſuffering with him? And were not many of us unborn when this accurſed thing was committed? Yet however this was moſt properly a National Guilt, becauſe ſo ma<g ref="char:EOLhyphen"/>ny of all Orders, Ranks, and Callings a<g ref="char:EOLhyphen"/>mongſt us were engaged in that <hi>Rebellion</hi> which brought forth this execrable Fact; and in ſins of this nature the Children muſt either inherit the Curſe, or attone for the Iniquities of their Fathers.</p>
+            <p>None of us, how innocent ſoever, ei<g ref="char:EOLhyphen"/>ther in our own actions, or thoſe of our progenitors; None of us, though never ſo Loyal, either in our Principles or our Parentage, are above the reach of this days amazement, are beyond the neceſſity of this days Humiliation: For publick ſins, of ſuch example, ſuch ſcandal and contagion as this, like the firſt Rebellion of Man, remain a debt upon Poſterity, and involve more in their unhappy conſequen<g ref="char:EOLhyphen"/>ces, than the immediate Inſtruments them<g ref="char:EOLhyphen"/>ſelves, or the Off-ſpring of thoſe who
+<pb n="9" facs="tcp:64993:5" rendition="simple:additions"/>firſt acted them: For when God upon ſuch a provocation as this, comes to reckon with a Kingdom, who can eſcape the terrible Vi<g ref="char:EOLhyphen"/>ſitation, who can abide the Almighty Wrath?</p>
+            <p>They were but few in compariſon with the whole Body of the Jewiſh Nation, that were immediately concerned in putting our Bleſſed Saviour to death; they were not many, perhaps onely a mercenary Rabble, who petitioned for his Crucifixion, and un<g ref="char:EOLhyphen"/>dertook to anſwer all the Appeales of his Bloud at their own and their Childrens pe<g ref="char:EOLhyphen"/>ril: Yet when the time of their Viſitation came (which was not till <hi>Forty years</hi> after the killing of their King, when perhaps moſt of his Murderers were dead and rot<g ref="char:EOLhyphen"/>ten) every Age, Sex, and Family that were in <hi>Jeruſalem,</hi> ſhared alike in the common Calamity; the Famine, the Peſtilence, and the Swords of the <hi>Romans</hi> had no commiſ<g ref="char:EOLhyphen"/>ſion to diſtinguiſh.</p>
+            <p>When the Divine Vengeance for the Bloud of our Martyr will more ſignally
+<pb n="10" facs="tcp:64993:6" rendition="simple:additions"/>break out, we know not; and we beſeech the infinite Mercy it may never. Our <hi>For<g ref="char:EOLhyphen"/>ty years</hi> have not yet expired, neither have the <hi>Romans</hi> as yet prevailed againſt us, or the Inundation of Sects overwhelmed us: How ſoon they may, he alone can tell, who alone can hinder; we have no better ſe<g ref="char:EOLhyphen"/>curity left us, than ſtrong Cries, deep Re<g ref="char:EOLhyphen"/>pentance, paſſionate Deprecations, <hi>O re<g ref="char:EOLhyphen"/>member not againſt us former iniquities!</hi>
+            </p>
+            <p>But are we fit perſons to intercede? are we fit to ſtand in the gap, to turn away the anger of the Lord, and to ſtop the deſtroying Angel? Do not our continued provocations, our daily repeated <hi>perſonal</hi> ſins call for new Indignation on us? What attonement therefore can we make, or wherewithal ſhall we come before the Lord? Can Intemperance ſatisfie for Hy<g ref="char:EOLhyphen"/>pocriſie, or Prophaneſs expiate for Murder? Is Sedition and Rebellion a repenting for the barbarous outrages of a Civil War, or of this days Crime? Will Oaths, and Cur<g ref="char:EOLhyphen"/>ſes, and Blaſphemies drown the noiſe of our crying Sins? Or will the contempt of
+<pb n="11" facs="tcp:64993:6"/>the <hi>Bloud of Chriſt,</hi> be a propitiation for the Bloud of the Martyr.</p>
+            <p>When our late Gracious Soveraign and the Royal Line, were reſtored by an ex<g ref="char:EOLhyphen"/>traordinary Providence, by a ſecret and won<g ref="char:EOLhyphen"/>derful hand; was our gratitude returned to God with that ſobriety of Chriſtian Joy as became a redeemed people? Or were the unquiet Zelots of our Land leſs obſtinate in their Opinions, more forward to remit their Scruples, or more modeſt in their Demands? And have we not already undergone ſome <hi>remarkable inſtances</hi> of Gods diſpleaſure for the Murder of our King, and the Prophanation of his reſtoring Mercy? ſuch as a Forreign War, a raging Peſtilence, a dreadful Fire, and an actual Rebellion.</p>
+            <p>As the Jews were wont to ſay, that in every Calamity that befel them, there was an ounce of the Golden Calf in it, of that ſhameful and Idolatrous revolt; ſo may we alſo affirm, that in every Judgment that o'retakes us, there is an ounce of the Bloud
+<pb n="12" facs="tcp:64993:7"/>of the Martyr in it: or elſe why are we like that ſtubborn Generation, ſuch a for<g ref="char:EOLhyphen"/>lorn people, as to be Hardned under every Calamity, and to turn our moſt ſignal Mer<g ref="char:EOLhyphen"/>cies into the greateſt Provocations? Why are we continually murmuring, often Plot<g ref="char:EOLhyphen"/>ting, ſometimes Rebelling! Why do we ſhew ſo little remorſe for our preſent, for our former Iniquities; for the Iniquities of this day?</p>
+            <p>The Lord does often defer and put off the <hi>extremity</hi> of Temporal Judgments, to ſee if the next Generation will amend; but if they go on in the ſame ways, if they fol<g ref="char:EOLhyphen"/>low their Fathers ſteps, imitate their bad Examples, and revive their ſins, then he ex<g ref="char:EOLhyphen"/>ecutes his Vengeance for both together; and moſt juſtly puniſhes a people for Of<g ref="char:EOLhyphen"/>fences committed many years ago, becauſe they renew them, becauſe they act them over again, againſt greater conviction, and with more obſtinacy and malice; as all muſt do, who continue Schiſmatical in the Church, or Factious in the State, after ſo great a light and knowledge of Truth and
+<pb n="13" facs="tcp:64993:7"/>Duty, and having had ſo long a time, ſo merciful a ſeaſon to underſtand and to a<g ref="char:EOLhyphen"/>mend their Errours.</p>
+            <p>There were three things that were more eſpecially active and fatal in our late Di<g ref="char:EOLhyphen"/>ſtractions, concerning which ſome did wil<g ref="char:EOLhyphen"/>fully miſtake, though others were undoub<g ref="char:EOLhyphen"/>tedly deluded.</p>
+            <p>They were <hi>Popery, Zeal,</hi> and the extent of <hi>Subjection.</hi>
+            </p>
+            <p>The notions of <hi>theſe</hi> were ſtrangely diſ<g ref="char:EOLhyphen"/>guiſed both in mens Writings and Appre<g ref="char:EOLhyphen"/>henſions, the effects of theſe moſt violent and impious: But ſince our Reſtoration and ſettlement, ſince mens Spirits have been in ſome diſpoſition and capacity to receive a rational inſtruction; all theſe things have been ſo plainly declared according to their true nature, ſo fully ſtated as to their meaſure and extent, ſo frequently incul<g ref="char:EOLhyphen"/>cated as to their juſt and ſober uſe, that there is left no further pretence for Igno<g ref="char:EOLhyphen"/>rance or Miſtake; that the Seditious have now no cloak for their Rebellion.</p>
+            <pb n="14" facs="tcp:64993:8"/>
+            <p>For <hi>Firſt</hi> in reſpect to <hi>Popery.</hi> Men have been ſeriouſly adviſed not to meaſure the Proteſtant Religion by any peeviſh oppo<g ref="char:EOLhyphen"/>ſition to the Papiſts; nor to account every thing <hi>Popery</hi> that is practiſed in the Church of <hi>Rome;</hi> but to allow of ſuch a judicious diſtinction between them, as <hi>Wiſe</hi> men may know what to <hi>Write</hi> for, and <hi>good</hi> men may know what to <hi>Die</hi> for.</p>
+            <p>Men have been often told, that our Re<g ref="char:EOLhyphen"/>formation was no <hi>new Religion,</hi> but onely a neceſſary and diſcreet removal of ſome in<g ref="char:EOLhyphen"/>tolerable corruptions, and an eſtabliſhing of the <hi>old Chriſtianity</hi> taught us plainly in the Scriptures, and interpreted, where du<g ref="char:EOLhyphen"/>bious, by the ancient Fathers.</p>
+            <p>They have been told, that in the Refor<g ref="char:EOLhyphen"/>ming of this Church, all things were acted not by way of Anabaptiſtical Tumult and Rebellion, not out of a ſpirit of contradi<g ref="char:EOLhyphen"/>ction and furious Zeal, but by the conſul<g ref="char:EOLhyphen"/>tation and authority of the lawful Pow<g ref="char:EOLhyphen"/>ers, and according to the juſt Liberties of a National Church.</p>
+            <pb n="15" facs="tcp:64993:8"/>
+            <p>What fiery turbulency did men ſhew againſt the <hi>moderate</hi> and <hi>perpetual Epiſcopa<g ref="char:EOLhyphen"/>cy</hi> of this Land, as if it had been the prin<g ref="char:EOLhyphen"/>cipal abomination of Antichriſt? And yet the voting down of that ſo dreaded Order was received with a Triumph at <hi>Rome.</hi>
+            </p>
+            <p>What Outcries were there made, and with what confidence was it aſſerted, that the chief of our Biſhops and Clergy were driving on a Popiſh Intereſt, when it was manifeſt that they were the greateſt, nay the onely true Champions againſt it?</p>
+            <p>As for ſome of the more eminent of them, when they could no longer remain with any ſafety in this Kingdom, where-ever they travelled they gallantly maintained the fight againſt the Subtleties and Corruptions of that Church, and like <hi>Hannibal</hi> when he was baniſhed from <hi>Carthage,</hi> where-e're they came, they juſtly raiſed up Enemies to the <hi>Romans.</hi>
+            </p>
+            <p>Thus the renowned <hi>Brumhall, Coſins,</hi>
+               <pb n="16" facs="tcp:64993:9"/>and <hi>Morley,</hi> &amp;c. carried the War into the Enemies Country, were victorious abroad, though contemned at home; defended our Church againſt the ſtrength and power of <hi>Rome,</hi> whilſt their Adverſaries went de<g ref="char:EOLhyphen"/>ſtroying of all Chriſtianity here, by con<g ref="char:EOLhyphen"/>tending with the ſhadow of Errour, by miſtaking the Controverſie, by ſhewing great violence, little Learning, no Arguments. By cheriſhing thoſe Diſtractions both in Church and State, which gave the greateſt blow to the Proteſtant Cauſe, and the ſu<g ref="char:EOLhyphen"/>reſt advantage to the Popiſh Intereſt, which ſtaggered the Religious, confirmed the A<g ref="char:EOLhyphen"/>theiſt, and made the Enthuſiaſt mad.</p>
+            <p>
+               <hi>Secondly,</hi> As to <hi>Zeal:</hi> That was made ſuch an Engine of War, that <hi>Cromwel</hi> thought it the onely Expedient by which he could match the bravery and ſpirit of the Kings Cavalry; conſidering with himſelf, that the Fury of that Principle would as much inſpire the <hi>Multitude,</hi> as Honour and Loyalty did the <hi>Nobles.</hi> This was his pe<g ref="char:EOLhyphen"/>culiar Policy, and to effect this was his ſin<g ref="char:EOLhyphen"/>gular Art, and this was the chief Strata<g ref="char:EOLhyphen"/>gem
+<pb n="17" facs="tcp:64993:9"/>by which he prevailed and Ruled; for he was forced to make the Army pure<g ref="char:EOLhyphen"/>ly <hi>Phanatick,</hi> before he could make it tru<g ref="char:EOLhyphen"/>ly ſerviceable to his purpoſe, and intirely <hi>His;</hi> ſtill ſupplying it with Zealots of an Old Teſtament-Valour, and perſwading e<g ref="char:EOLhyphen"/>very Captain, that he was a choſen <hi>Jehu</hi> to fight the Battels of the Lord.</p>
+            <p>Sowre Paſſions, Cenſoriouſneſs, and Ma<g ref="char:EOLhyphen"/>lice; Emulations, Wrath, Strife and Envy<g ref="char:EOLhyphen"/>ings, were the black Ingredients of <hi>their</hi> Zeal; whereas the true Zeal of the Go<g ref="char:EOLhyphen"/>ſpel is that which is guided by Prudence, ſweetned with Charity, tempered by Meek<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Falſe Zeal is the very Gall of bitter<g ref="char:EOLhyphen"/>neſs; but that which is true, is the very Top and Flower of Divine Love: The one rages and Rebels; the other ſuffers and Dies: The one calls for Fire from Heaven; the other ſends up Incenſe thi<g ref="char:EOLhyphen"/>ther: The one is factiouſly buſie in refor<g ref="char:EOLhyphen"/>ming of the State; the other is humbly imployed in the due regulation of private Life and Manners.</p>
+            <pb n="18" facs="tcp:64993:10"/>
+            <p>If men would be truly zealous, let them ſhew it for Holineſs and Righteouſneſs, for Humility, and the decency of Publick Wor<g ref="char:EOLhyphen"/>ſhip. Let them ſhew it againſt Sacriledge, Perjury, Covetouſneſs, Hypocriſie, Rapine, and groſs Superſtition: Not by railing a<g ref="char:EOLhyphen"/>gainſt Ceremonies, cenſuring the Clergy, curſing the Papiſts, moving of Sedition, and encouraging Rebellion; but by bro<g ref="char:EOLhyphen"/>therly Admonitions, ſound Reaſonings, ex<g ref="char:EOLhyphen"/>cellent Examples, ſingular Modeſty, due Reverence, and Attention in our publick Aſſemblies, by Praiſes, Prayers, and fre<g ref="char:EOLhyphen"/>quent Communions; by Intreaties, Tears, and ſolemn Humiliations, by interceding with the Almighty in ſtrict Faſtings, and fervency of Devotion, and by averting publick Judgements by an extraordinary Holineſs of Life. This is the <hi>Zeal</hi> which is kindled from above, which is firſt Pure, then Peaceable; the other is kindled from below and is earthly, ſenſual, deviliſh.</p>
+            <p>
+               <hi>Thirdly,</hi> The laſt thing I mentioned, was the <hi>extent</hi> of <hi>Subjection.</hi> What was
+<pb n="19" facs="tcp:64993:10"/>more tampered with in our late times, than the Doctrine of Obedience? What more diſguiſed? what Propoſition was accounted more contemptible than Subje<g ref="char:EOLhyphen"/>ction for <hi>Conſcience ſake?</hi> Every conceited Politician ſent forth his new Syſtem of Ci<g ref="char:EOLhyphen"/>vil Government: Every illuminated Bro<g ref="char:EOLhyphen"/>ther, his new Models of Chriſts Kingdom: every one was for erecting an Empire for himſelf, and a Platform wherein his own Imaginations might rule.</p>
+            <p>Yet when they had tried all the ſeveral kinds and ſpecies of diſorder, Govern<g ref="char:EOLhyphen"/>ment would fall back to its old Form; it could no where reſt, but upon the Baſis of ancient Monarchy, and primitive Epiſcopa<g ref="char:EOLhyphen"/>cy.</p>
+            <p>Surely the Protectors of our Liberties, and the Reformers of our Religion, had a moſt wonderful proſpect of a laſting Peace in the State, and a Godly Diſcipline in the Church; when the ignorance of the <hi>Multitude</hi> was guided by the Crafty, their ungovernable Paſſions inflamed by the Re<g ref="char:EOLhyphen"/>vengeful,
+<pb n="20" facs="tcp:64993:11"/>and their intolerable obſtinacy permitted to dictate their own Eccleſiaſtical Cenſures.</p>
+            <p>But now the Eſſential Properties of So<g ref="char:EOLhyphen"/>vereign Power, the Fundamental Laws of the Engliſh Monarchy, the unalterable Right of Succeſſion in this Hereditary Kingdom, and the juſt Priviledges of the Chriſtian Church, have been ſo clearly ſtated by wiſe and able heads; that they have left no room for Cavil, no plea for Ignorance, and no pardon for a malicious Oppoſition.</p>
+            <p>More eſpecially the unlawfulneſs of <hi>Re<g ref="char:EOLhyphen"/>ſiſtance</hi> in any caſe, and upon any pretence whatſoever, either Popiſh or Phanatick, has been ſo ſtrongly aſſerted, and ſo fully evi<g ref="char:EOLhyphen"/>denced through all the Scriptures of the Old and New Teſtament, through the Hi<g ref="char:EOLhyphen"/>ſtories, Examples and Apologies of the Primitive times; by unanſwerable poſitive Reaſons, by a removal of all imaginable Objections, and by the Convictions of for<g ref="char:EOLhyphen"/>mer and late Experience; that no man
+<pb n="21" facs="tcp:64993:11"/>for the future can be a Rebel in this Na<g ref="char:EOLhyphen"/>tion, without being either an Hypocrite or an Atheiſt.</p>
+            <p>Thus you ſee with what Conſcience, Learning, Enduſtry and Perſwaſion, the <hi>Church</hi> of <hi>England</hi> has endeavoured to diſ<g ref="char:EOLhyphen"/>pel all the miſts of former Darkneſs, to take away all materials for Sedition, and to make all her Members Religious, Wiſe, and Peaceable!</p>
+            <p>Eſpecially <hi>Religious,</hi> for the truly Pious will undoubtedly be truly <hi>Loyal;</hi> they will find ſufficient buſineſs with their own Souls, to keep them from a Factious enqui<g ref="char:EOLhyphen"/>ry into the miſcarriages of the State; by ſtudying their own Infirmities, they will be more tenderly ſenſible of the Tempta<g ref="char:EOLhyphen"/>tions of an higher ſtation; they will weep and mourn for thoſe defects, which God, when we deſerve it, will amend.</p>
+            <p>The Lord deliver our moſt Gracious Soveraign and his good Subjects, from that corrupt Brood of pretended Loyaliſts, who
+<pb n="22" facs="tcp:64993:12"/>blaſpheme God, ſwagger for the King, curſe his Enemies, and damn themſelves! This is not Loyalty, but phrenſie; either the voice of Flattery high-fed, or the Ra<g ref="char:EOLhyphen"/>vings of a feavered Valour.</p>
+            <p>Loyalty is a Virtue as calm as any of the Duties of Religion; 'Tis Brave, Mo<g ref="char:EOLhyphen"/>deſt, and Invincible; 'tis ſeated more in the Judgement and Conſcience, than in the Imagination and heat of Bloud: 'Tis the higheſt degree of Humane gratitude tem<g ref="char:EOLhyphen"/>pered with great awe and reverence: 'Tis that which would make a man Pious, Juſt, and Sober, were it onely to bring down a Bleſſing on his King, and on his Nation.</p>
+            <p>Neither is it a Scheme of Policy in the <hi>Brain</hi> that will make a <hi>Chriſtian-Stateſman;</hi> but 'tis the Oracle of Truth and Righte<g ref="char:EOLhyphen"/>ouſneſs in the <hi>Breaſt,</hi> that will make his Counſel proſper and his Wiſdom ſhine. He alone is beſt able to give his Prince a ſound Advice, and he alone has the beſt courage ſo to do, who has firſt begg'd it himſelf on his Knees of God: He who
+<pb n="23" facs="tcp:64993:12"/>has lain proſtrate before the Almighty in Humility and Contrition, is the ſitteſt to ſtand up againſt the Torrent of a Faction, or the Inſinuations of a ſlier Party. That Magiſtrate who converſes moſt with God, will like <hi>Moſes,</hi> have moſt Divine Autho<g ref="char:EOLhyphen"/>rity in his looks; he will be the moſt pro<g ref="char:EOLhyphen"/>per perſon to ſtand in the gap, and to turn away the deſtroying Angel.</p>
+            <p>But ſtill give me leave to ask that <hi>Hum<g ref="char:EOLhyphen"/>bling</hi> Queſtion: Is this Nation likely to atone for <hi>former</hi> Iniquities, that is ſcarce ſen<g ref="char:EOLhyphen"/>ſible of their daily Tranſgreſſions? What ſolemn Humiliation can be expected from thoſe who confeſs their preſent ſins with<g ref="char:EOLhyphen"/>out Contrition? who pray without Devo<g ref="char:EOLhyphen"/>tion? Who praiſe God without Affection? And read the Scriptures without Faith and Obedience?</p>
+            <p>When our ſins have ſeparated between us and our God, and our Iniquities have hid his Face from us that he will not hear, becauſe our hands are defiled with Bloud; then 'tis not a melancholy look, the abate<g ref="char:EOLhyphen"/>ment
+<pb n="24" facs="tcp:64993:13"/>of a Meal, and a formal attendance on divine Offices, that will break our Cords aſunder, and appeaſe an Almighty Reven<g ref="char:EOLhyphen"/>ger. An extraordinary affliction of Soul can onely waſh out an extraordinary guilt.</p>
+            <p>
+               <hi>Is not this the Faſt which I have choſen?</hi> ſaith the Lord by his Prophet <hi>Iſaiah,</hi> Chap. 58. v. 6, 7. <hi>to looſe the bands of wickedneſs, to undo the heavy burthens, and to let the oppreſſed go free, and that ye break every yoke?</hi> but that of Government: <hi>Is it not to deal thy bread to the hungry, and that thou bring the poor that are caſt out to thy houſe? When thou ſeeſt the naked, that thou cover him; and that thou hide not thy ſelf from thine own fleſh?</hi> Is it not to be<g ref="char:EOLhyphen"/>waile thoſe Diviſions which this Church lies under, and thoſe continual Diſcontents which diſorder this State and Government? Is it not to forſake thoſe <hi>reigning Sins</hi> which call down heavy Judgements on us; or which perhaps is worſe, withdraw the Mercy of an afflicting Hand, and make us moſt unworthy of them! Is it not to practiſe that ſincere Piety towards God,
+<pb n="25" facs="tcp:64993:13"/>that religious Loyalty to our King, that Charity to our Neighbour, that Tempe<g ref="char:EOLhyphen"/>rance, Moderation, and Contentedneſs to<g ref="char:EOLhyphen"/>wards our ſelves, as alone can make us the Objects of Gods pardoning Mercy? Is it not that the Prieſts of the Lord ſhould weep between the Porch and the Altar, and with inceſſant Supplications cry, Spare thy people, O Lord, and give not thine Heritage to reproach? Be not wrath very ſore, O Lord, neither remember this days Iniquity for ever!</p>
+            <p>Behold, ſee, we beſeech thee; we are all thy people! how long wilt thou be an<g ref="char:EOLhyphen"/>gry with thy people that prayeth? We are that ungrateful Remnant which thou haſt made remarkable throughout the world by thy Mercies and thy Judgements!</p>
+            <p>Thou haſt reſcued us from Superſtition and Enthuſiaſm, and haſt eſtabliſhed the <hi>pureſt part</hi> of thy Religion amongſt us! thou haſt confirmed it to us, not onely by the <hi>Bloud</hi> of its firſt profeſſors, but by <hi>that</hi> of a moſt meek and glorious King.</p>
+            <pb n="26" facs="tcp:64993:14"/>
+            <p>Behold, O Lord, ſee, ſee, how we are this day united to implore thy Mercy; and not as <hi>once</hi> to call down thy wrath and In<g ref="char:EOLhyphen"/>dignation upon us! we are engaged in no other <hi>Conſpiracy</hi> now, but that of beſieg<g ref="char:EOLhyphen"/>ing thy Throne of Grace!</p>
+            <p>Thou hadſt continually a truly Religi<g ref="char:EOLhyphen"/>ous and Loyal people in this Land, who utterly abhorred the bloudy Act of this day, and all the accurſed tendencies to<g ref="char:EOLhyphen"/>wards it! And as for the <hi>deluded Multi<g ref="char:EOLhyphen"/>tude,</hi> O pardon them Lord, pardon them, for whom our Saviour prayed; for whom our Martyr prayed; O pardon them, be<g ref="char:EOLhyphen"/>cauſe they knew not what they did!</p>
+            <p>Though our Kalender is red with this days Action, yet our Chronicle ſhines with this days Example: there Meekneſs, Humi<g ref="char:EOLhyphen"/>lity, Patience, Charity and Conſtancy ſet triumphant.</p>
+            <p>It was the honour of <hi>Conſtantine</hi>'s Reign, that he was <hi>converted</hi> to the <hi>Chriſtian
+<pb n="27" facs="tcp:64993:14"/>Faith.</hi> Renowned were thoſe <hi>Emperours</hi> who afterwards <hi>protected it</hi> by their whole<g ref="char:EOLhyphen"/>ſome <hi>Laws</hi> and <hi>Edicts:</hi> Bleſſed and thrice bleſſed were thoſe <hi>Princes</hi> who gave <hi>Au<g ref="char:EOLhyphen"/>thority</hi> to it by their admirable <hi>Lives</hi> and <hi>Examples:</hi> But for a <hi>King</hi> to fall a <hi>Sacri<g ref="char:EOLhyphen"/>fice</hi> for it; to <hi>Live</hi> in all its <hi>active Duties,</hi> and <hi>Die</hi> in all its <hi>paſſive Graces;</hi> this is onely to be met with in the <hi>Engliſh</hi> An<g ref="char:EOLhyphen"/>nals; this is onely to be read in the <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> Dypticks; this is the peculiar Tri<g ref="char:EOLhyphen"/>umph of <hi>our Church,</hi> and the Univerſal glory of <hi>Chriſtianity</hi> at large.</p>
+            <p>Let us therefore deeply Repent for this days ſad occaſion, and then praiſe the Al<g ref="char:EOLhyphen"/>mighty for this days glorious Event! Let our Humiliations wear out the black guilt of this days Crime, and our Lives copy out the Example of this days <hi>Martyr.</hi>
+            </p>
+            <p>Then may we recover the favour of Heaven, and either cancel all the commiſ<g ref="char:EOLhyphen"/>ſioned Judgements againſt us, or improve them into Mercies!</p>
+            <pb n="28" facs="tcp:64993:15"/>
+            <p>Then may we become an united people in Church and State; a Royal Prieſthood, an holy Nation: then may we ſpread our Fame to the uttermoſt parts of the Earth, and the <hi>purity</hi> of Chriſts Religion with it! then may we remain a ſtanding Bulwork againſt the Policy of <hi>Rome,</hi> and teach ſome <hi>Proteſtant Churches</hi> a <hi>Doctrine</hi> which they have not yet compleatly learnt, <hi>The true and Catholick Subjection to the Soveraign Powers.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:64993:15"/>
+            <head>BOOKS Printed for <hi>W. Crook.</hi>
+            </head>
+            <p n="1">1. LES <hi>Reports</hi> du tres Erudite <hi>Edmund Saunders</hi> Chivalier Nadgairs Seig<g ref="char:EOLhyphen"/>niour <hi>Chief Juſtice</hi> de Bank le Roy, des divers <hi>Pleadings &amp; Caſes</hi> in le Court del Bank le Roy en le temps del Reign ſa tres excellent Majeſty le Roy <hi>Charls le</hi> 2<hi rend="sup">d</hi> 
+               <hi>Avec trois</hi> Tables; la primer des Noſmes des Caſes la ſecond de les Matters contein les Pleadings; &amp; le teirce de les principal Matters contein en les Caſes. <hi>Fol.</hi> in 2 <hi>Vol.</hi>
+            </p>
+            <p n="2">2. <hi>A new Book of Entries</hi> of Declarati<g ref="char:EOLhyphen"/>ons and other Pleadings General and Spe<g ref="char:EOLhyphen"/>cial in the moſt uſual Action in the Court of <hi>Kings Bench.</hi> Alſo a choice Collection of Special Writs and other Returns; to<g ref="char:EOLhyphen"/>gether with Obſervations in <hi>Pleading,</hi> in<g ref="char:EOLhyphen"/>ſtructing the younger Clerks in the practice of that Court from the original Manu<g ref="char:EOLhyphen"/>ſcripts. By <hi>John Hanſard</hi> Gent. late of <hi>Clements Inn.</hi> To which is added Appeals of <hi>Murder</hi> and <hi>Mayheme</hi> with variety of
+<pb facs="tcp:64993:16"/>
+               <hi>Pleadings</hi> thereon, the like not printed be<g ref="char:EOLhyphen"/>fore in any Book whatſoever. In <hi>Fol.</hi>
+            </p>
+            <p n="3">3. Fleta <hi>ſeu Commentarius Juris Angli<g ref="char:EOLhyphen"/>canis ſic Nuncupatus ſub</hi> Edwardo <hi>Rege pri<g ref="char:EOLhyphen"/>mo, ſeu circa Annos &amp;c. ſubjungitur etiam</hi> Joani Seldeni <hi>ad Fletam Diſſertatio Hi<g ref="char:EOLhyphen"/>ſtorica.</hi>
+            </p>
+            <p n="4">4. The Hiſtory of the <hi>Bucaniers</hi> of <hi>A<g ref="char:EOLhyphen"/>merica:</hi> being an Account of the moſt re<g ref="char:EOLhyphen"/>markable <hi>Aſſaults</hi> committed of late years upon the Coaſts of the <hi>Weſt-Indies.</hi> In two Volumes in 4<hi rend="sup">o</hi>.</p>
+            <p n="5">5. The <hi>Souls Communion</hi> with her Sa<g ref="char:EOLhyphen"/>viour: or the Hiſtory of our Lord <hi>Jeſus Chriſt,</hi> written by the Four <hi>Evangeliſts,</hi> digeſted into Devotional Meditations. By <hi>Ph. Traherne</hi> 12<hi rend="sup">o</hi>.</p>
+            <p n="6">6. A ſhort View of the moſt Gracious Providence of God in the <hi>Reſtoration</hi> and <hi>Succeſſion,</hi> May 29. In 4<hi rend="sup">o</hi>.</p>
+            <p n="7">7. Two Diſcourſes: The Firſt ſhewing how the chief Criterions of Philoſophical truth, invented by Speculative men, more eminently ſerve Divine Revelation, than either Philoſophy or Natural Religion; The Second manifeſting how all the Foun<g ref="char:EOLhyphen"/>dations
+<pb facs="tcp:64993:16"/>of the Intellectual World have been un<g ref="char:EOLhyphen"/>dermined by the Popiſh Doctrines and Po<g ref="char:EOLhyphen"/>licies. In 8<hi rend="sup">o</hi> price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p n="8">8. Praiſe and Adoration: or a Sermon on <hi>Trinity</hi>-Sunday before the Univerſity of <hi>Oxford.</hi> By <hi>Tho. Maningham,</hi> late Fellow of <hi>New Colledge Oxford,</hi> now Rector of <hi>Eaſt-Tyſted,</hi> and Preacher at the <hi>Rolls.</hi> In 4<hi rend="sup">o</hi>.</p>
+            <p n="9">9. A Diſcourſe about Conſcience, rela<g ref="char:EOLhyphen"/>ting to preſent Differences among us, in oppoſition to both Extreams of Popery and Fanaticiſm. In 4<hi rend="sup">o</hi>.</p>
+            <p n="10">10. The Doctrine of Paſſive Obedi<g ref="char:EOLhyphen"/>ence, in a Sermon preached <hi>January</hi> 30. By <hi>Ja. Ellesby</hi> Vicar of <hi>Chiſwick.</hi>
+            </p>
+            <p n="11">11. Three Sermons of <hi>Greg. Haſcard</hi> D. D. Rector of St. <hi>Clements Danes</hi> and Dean of <hi>Windſor.</hi> Two of them preached before the Lord Mayor of <hi>London,</hi> and the other on the 5th of <hi>November</hi> at St. <hi>Clements</hi> Church, 4<hi rend="sup">o</hi>.</p>
+            <p n="12">12. An Introduction to the Sacrament: or a ſhort, plain, and ſafe way to the Com<g ref="char:EOLhyphen"/>munion Table, being an Inſtruction for the worthy receiving of the Lords Sup<g ref="char:EOLhyphen"/>per. By Dr. <hi>Addiſon</hi> Dean of <hi>Litchfield,</hi>
+               <pb facs="tcp:64993:17"/>24<hi rend="sup">o</hi>. price bound 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> fitted for the Poc<g ref="char:EOLhyphen"/>ket.</p>
+            <p n="13">13. <hi>Compendium Geographicum:</hi> or a more exact, plain, and eaſie Introduction to all Geography than yet extant, after the lateſt Diſcoveries and Alterations; with a Dictionary of the Names of Places; the firſt the Ancient, and the ſecond the Mo<g ref="char:EOLhyphen"/>dern names of all Countries, Cities, <hi>&amp;c.</hi> In 12<hi rend="sup">o</hi> price bound 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p n="14">14. The general Hiſtory of the World, being a compleat Body thereof. In two Volumes, price bound 2 <abbr>
+                  <hi>l.</hi>
+               </abbr> 18 <abbr>
+                  <hi>s.</hi>
+               </abbr> Fol.</p>
+            <p n="15">15. <hi>Homers Illiads</hi> and <hi>Odyſſes</hi> tranſla<g ref="char:EOLhyphen"/>ted out of <hi>Greek</hi> into <hi>Engliſh,</hi> by <hi>Tho. Hobbes</hi> of <hi>Malmsbury,</hi> the third Edition. In 12<hi rend="sup">o</hi>.</p>
+            <p n="16">16. The Tracts of <hi>Tho. Hobbes</hi> of <hi>Malmsbury,</hi> viz. Firſt <hi>Behemoth,</hi> or the Civil Wars of <hi>England</hi> from 1640, to 1660. Second Anſwer to Biſhop <hi>Bramhall.</hi> Third his Narration of Hereſie. Fourth his Pro<g ref="char:EOLhyphen"/>blems. 8<hi rend="sup">o</hi>. price bound 5 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
